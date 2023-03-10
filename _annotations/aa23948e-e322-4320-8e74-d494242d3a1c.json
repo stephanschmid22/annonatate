@@ -1,0 +1,23 @@
+---
+canvas: "https://www.e-manuscripta.ch/i3f/v20/3116747/canvas/3116748"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://www.e-manuscripta.ch/i3f/v20/3116747/canvas/3116748",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3255.01953125,1629.86962890625,681.82421875,582.649658203125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-manuscripta.ch/i3f/v20/3116747/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aa23948e-e322-4320-8e74-d494242d3a1c.json",
+    "motivation": "commenting"
+}
