@@ -9,6 +9,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://stephanschmid22.github.io/annonatate/annotations/i3f-v20-3116747-3116748-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
