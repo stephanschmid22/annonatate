@@ -1,0 +1,35 @@
+---
+canvas: "https://www.e-manuscripta.ch/i3f/v20/3116725/canvas/3116726"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Grundriss Burg",
+            "purpose": "commenting",
+            "creator": {
+                "id": "stephanschmid22",
+                "name": "stephanschmid22"
+            },
+            "created": "2023-03-10T08:35:35.019Z",
+            "modified": "2023-03-10T08:35:38.810Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.e-manuscripta.ch/i3f/v20/3116725/canvas/3116726",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=340.86614990234375,410.0711975097656,397.3306884765625,466.4317321777344"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-manuscripta.ch/i3f/v20/3116725/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "27de7c9a-c920-4cac-a61f-c58b139abeed.json",
+    "motivation": "commenting"
+}
