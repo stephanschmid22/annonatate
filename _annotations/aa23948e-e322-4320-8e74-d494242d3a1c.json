@@ -4,7 +4,19 @@ order: 1
 ---
 {
     "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Burg",
+            "purpose": "commenting",
+            "creator": {
+                "id": "stephanschmid22",
+                "name": "stephanschmid22"
+            },
+            "created": "2023-03-10T08:46:51.922Z",
+            "modified": "2023-03-10T08:46:52.291Z"
+        }
+    ],
     "target": {
         "source": "https://www.e-manuscripta.ch/i3f/v20/3116747/canvas/3116748",
         "selector": {
